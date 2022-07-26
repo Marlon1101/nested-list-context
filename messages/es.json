@@ -1,0 +1,20 @@
+{
+  "admin-department.navigation.label-group": "Departamentos DANE",
+  "admin-department.navigation.label-table": "Departamentos",
+  "admin-department.details": "Departamentos por codigo DANE",
+  "admin-department.details-detail": "Detalle Departamento y sus Municipios",
+  "admin-department.navigation.table.search.kws": "department, dane, municipality",
+  "admin-department.schema.label": "NOMBRE",
+  "admin-department.schema.slug": "SLUG",
+  "admin-department.schema.code_dane": "CÓDIGO DANE",
+  "admin-department.schema.actions": "ACCIONES",
+  "admin-department.schema.code_department": "CÓDIGO DE DEPARTAMENTO",
+  "admin-department.export.department": "Exportar Departamentos",
+  "admin-department.import.department": "Importar Departamentos",
+  "admin-department.new.department": "Nuevo Departamento",
+  "admin-department.export.municipality": "Exportar Municipios",
+  "admin-department.import.municipality": "Importar Municipios",
+  "admin-department.new.municipality": "Nuevo Município",
+  "admin-department.button.first": "Primera",
+  "admin-department.button.last": "Última"
+}

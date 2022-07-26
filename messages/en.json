@@ -1,0 +1,20 @@
+{
+  "admin-department.navigation.label-group": "Department DANE",
+  "admin-department.navigation.label-table": "Department",
+  "admin-department.details": "Departments by DANE code",
+  "admin-department.details-detail": "Detail Department and its Municipalities",
+  "admin-department.navigation.table.search.kws": "department, dane, municipality",
+  "admin-department.schema.label": "NAME",
+  "admin-department.schema.slug": "SLUG",
+  "admin-department.schema.code_dane": "CODE DANE",
+  "admin-department.schema.actions": "ACTIONS",
+  "admin-department.schema.code_department": "DEPARTMENT CODE",
+  "admin-department.export.department": "Export Departments",
+  "admin-department.import.department": "Import Departments",
+  "admin-department.new.department": "New Department",
+  "admin-department.export.municipality": "Export Municipalities",
+  "admin-department.import.municipality": "Import Municipalities",
+  "admin-department.new.municipality": "New Municipality",
+  "admin-department.button.first": "First Page",
+  "admin-department.button.last": "Last Page"
+}

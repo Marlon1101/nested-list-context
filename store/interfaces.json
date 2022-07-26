@@ -1,0 +1,7 @@
+{
+    "nested-list-context": {
+        "component": "NestedListContext",
+        "composition": "children",
+        "render":"client"
+    }
+}

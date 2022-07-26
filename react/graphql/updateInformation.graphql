@@ -1,0 +1,13 @@
+mutation UPDATE_DEPARTMENT(
+  $acronym: String!
+  $document:DocumentInput
+  ){
+  updateDocument(
+    acronym: $acronym,
+     document: $document
+     )
+    @context(providers: "vtex.store-graphql"){
+    id
+    cacheId
+  }
+}

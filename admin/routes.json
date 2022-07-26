@@ -1,0 +1,10 @@
+{
+  "admin.app.department": {
+    "component": "Department",
+    "path": "/admin/app/department"
+  },
+  "admin.app.department-detail": {
+    "component": "DepartmentDetail",
+    "path": "/admin/app/department/detail/:id"
+  }
+}

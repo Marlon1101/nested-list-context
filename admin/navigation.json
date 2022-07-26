@@ -1,0 +1,14 @@
+{
+  "section": "orders",
+  "titleId": "admin-department.navigation.label-group",
+  "subSection": "DepartmentDane",
+  "searchKeyWordsHelpers": "admin-department.navigation.search.kws",
+  "subSectionItems": [
+    {
+      "labelId": "admin-department.navigation.label-table",
+      "path": "/admin/department",
+      "searchKeyWordsHelpers": "admin-department.navigation.table.search.kws"
+    }
+  ]
+}
+
